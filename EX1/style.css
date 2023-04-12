@@ -1,0 +1,30 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.popup {
+    background-color: rgb(238, 220, 186);
+    border-radius: 30px;
+    min-width: 300px;
+    min-height: 150px;
+    padding: 40px 50px;
+}
+
+.popup__message {
+
+}
+
+li {
+    margin-left: 13px;
+}
